@@ -7,10 +7,14 @@ This is the code repository for [Python 3 Object-oriented Programming - Second E
 **Building robust and maintainable software with object oriented design patterns in Python**
 
 ## What is this book about?
-0
 
 This book covers the following exciting features:
 
+* Implement objects in Python by creating classes and defining methods
+* Separate related objects into a taxonomy of classes and describe the properties and behaviors of those objects via the class interface
+* Extend class functionality using inheritance
+* Understand when to use object-oriented features, and more importantly when not to use them
+* Discover what design patterns are and why they are different in Python
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1784398780) today!
 
@@ -18,10 +22,9 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1784
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
-
 
 **Following is what you need for this book:**
+
 This book specifically targets people who are new to object-oriented programming. It assumes you have basic Python skills. You'll learn object-oriented principles in depth. It is particularly useful for system administrator types who have used Python as a "glue" language and would like to improve their programming skills.
 If you are familiar with object-oriented programming in other languages, then this book will help you understand the idiomatic ways to apply your knowledge in the Python ecosystem
 
