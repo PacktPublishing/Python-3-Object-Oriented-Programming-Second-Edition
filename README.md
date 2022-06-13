@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B03672?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Python 3 Object-oriented Programming - Second Edition 
 
 <a href="https://prod.packtpub.com/in/application-development/python-3-object-oriented-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784398781"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b03672_cover.png" alt="Python 3 Object-oriented Programming - Second Edition " height="256px" align="right"></a>
